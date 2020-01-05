@@ -1,0 +1,660 @@
+1	Après	après	P	P		16	mod	16	mod
+2	avoir	avoir	VINF	VINF	t=W	3	aux_tps	3	aux_tps
+3	fréquenté	fréquenter	VPP	VPP	n=s|g=m|t=K	1	prep	1	prep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	écoles	école	NC	NC	n=p|g=f	3	obj	3	obj
+6	secondaires	secondaire	ADJ	ADJ	n=p	5	mod	5	mod
+7	et	et	CC	CC		5	coord	5	coord
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	gymnase	gymnase	NC	NC	n=s|g=m	7	dep_coord	7	dep_coord
+10	de	de	P	P		3	mod	3	mod
+11	Morges	_	NPP	NPP		10	prep	10	prep
+12	et	et	CC	CC		3	coord	3	coord
+13	Lausanne	_	NPP	NPP		12	dep_coord	12	dep_coord
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	il	il	CLS	CLS	n=s|g=m|p=3	16	suj	16	suj
+16	continue	continuer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+17	ses	ses	DET	DET	n=p|p=3|poss=s	18	det	18	det
+18	études	étude	NC	NC	n=p|g=f	16	obj	16	obj
+19	à	à	P	P		16	mod	16	mod
+20	Fribourg	Fribourg	NPP	NPP	n=s|g=m	19	prep	19	prep
+21	-	-	PONCT	PONCT		20	ponct	20	ponct
+22	en	en	P	P		16	mod	16	mod
+23	-	-	PONCT	PONCT		22	ponct	22	ponct
+24	Brisgau	_	NPP	NPP		22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	où	où	PROREL	PROREL		28	mod	28	mod
+27	il	il	CLS	CLS	n=s|g=m|p=3	28	suj	28	suj
+28	suit	suivre	V	V	n=s|t=P|p=3	24	mod_rel	24	mod_rel
+29	un	un	DET	DET	n=s|g=m	30	det	30	det
+30	semestre	semestre	NC	NC	n=s|g=m	28	obj	28	obj
+31	de	de	P	P		28	mod	28	mod
+32	chimie	chimie	NC	NC	n=s|g=f	31	prep	31	prep
+33	biologique	biologique	ADJ	ADJ	n=s	32	mod	32	mod
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	puis	puis	CC	CC		31	coord	31	coord
+36	à	à	P	P		35	dep_coord	35	dep_coord
+37	Paris	Paris	NPP	NPP	n=s|g=m	36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	où	où	PROREL	PROREL		47	mod	47	mod
+40	son	son	DET	DET	n=s|g=m|p=3|poss=s	41	det	41	det
+41	compatriote	compatriote	NC	NC	n=s	47	suj	47	suj
+42	et	et	CC	CC		41	coord	41	coord
+43	ami	ami	NC	NC	n=s|g=m	42	dep_coord	42	dep_coord
+44	Alexandre	Alexandre	NPP	NPP	n=s|g=m	41	mod	41	mod
+45	Yersin	_	NPP	NPP		41	mod	41	mod
+46	l'	le	CLO	CLO	n=s|p=3	47	obj	47	obj
+47	entraîne	entraîner	V	V	n=s|t=P,S|p=1,3	24	mod_rel	24	mod_rel
+48	à	à	P	P		47	mod	47	mod
+49	l'	le	DET	DET	n=s	50	det	50	det
+50	Institut	institut	NC	NC	n=s|g=m	48	prep	48	prep
+51	Pasteur	_	NPP	NPP		50	mod	50	mod
+52	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	Là	là	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+4	prend	prendre	V	V	n=s|t=P|p=3	0	root	0	root
+5	goût	goût	NC	NC	n=s|g=m	4	obj	4	obj
+6	aux	à	P+D	P+D	n=p	4	mod	4	mod
+7	recherches	recherche	NC	NC	n=p|g=f	6	prep	6	prep
+8	bactériologiques	bactériologique	ADJ	ADJ	n=p	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qu'	que	CS	CS		4	mod	4	mod
+11	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+12	n'	ne	ADV	ADV		13	mod	13	mod
+13	abandonnera	abandonner	V	V	n=s|t=F|p=3	10	sub	10	sub
+14	pas	pas	ADV	ADV		13	mod	13	mod
+15	toute	tout	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+16	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	17	det	17	det
+17	vie	vie	NC	NC	n=s|g=f	13	obj	13	obj
+18	durant	durant	P	P		13	mod	13	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Naturalisé	naturaliser	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+2	Français	français	NC	NC	g=m	1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Victor	Victor	NPP	NPP	n=s|g=m	7	suj	7	suj
+5	Morax	_	NPP	NPP		4	mod	4	mod
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	nommé	nommer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	successivement	_	ADV	ADV		9	mod	9	mod
+9	externe	externe	ADJ	ADJ	n=s	7	ats	7	ats
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	puis	puis	CC	CC		7	coord	7	coord
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	en	en	P	P		0	_	0	_
+14	1890	1890	NC	NC		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	interne	interne	ADJ	ADJ	n=s	14	mod	14	mod
+17	des	de	P+D	P+D	n=p	14	dep	14	dep
+18	Hôpitaux	hôpital	NC	NC	n=p|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Autant	autant	ADV	ADV		2	mod	2	mod
+2	clinicien	clinicien	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+3	qu'	que	CS	CS		2	dep	2	dep
+4	ophtalmologue	ophtalmologue	NC	NC	n=s	11	mod	11	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	bactériologue	_	NPP	NPP		4	mod	4	mod
+7	ou	ou	CC	CC		4	coord	4	coord
+8	chirurgien	chirurgien	NC	NC	n=s|g=m	7	dep_coord	7	dep_coord
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+11	obtient	obtenir	V	V	n=s|t=P|p=3	0	root	0	root
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+13	doctorat	doctorat	NC	NC	n=s|g=m	11	obj	11	obj
+14	en	en	P	P		11	mod	11	mod
+15	médecine	médecine	NC	NC	n=s|g=f	14	prep	14	prep
+16	en	en	P	P		11	mod	11	mod
+17	1894	1894	NC	NC		16	prep	16	prep
+18	à	à	P	P		11	mod	11	mod
+19	Paris	Paris	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Tout	tout	ADV	ADV		2	mod	2	mod
+2	en	en	P	P		0	root	0	root
+3	étant	être	VPR	VPR	t=G	2	prep	2	prep
+4	interne	interne	ADJ	ADJ	n=s	3	ats	3	ats
+5	des	de	P+D	P+D	n=p	3	mod	3	mod
+6	hôpitaux	hôpital	NC	NC	n=p|g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Victor	Victor	NPP	NPP	n=s|g=m	10	suj	10	suj
+9	Morax	_	NPP	NPP		8	mod	8	mod
+10	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+11	plusieurs	plusieurs	DET	DET	n=p	12	det	12	det
+12	stages	stage	NC	NC	n=p|g=m	10	obj	10	obj
+13	à	à	P	P		10	mod	10	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	Institut	institut	NC	NC	n=s|g=m	13	prep	13	prep
+16	Pasteur	_	NPP	NPP		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	1896	1896	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	découvre	découvrir	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	diplo	_	NC	NC		5	obj	5	obj
+8	-	-	PONCT	PONCT		7	ponct	7	ponct
+9	bacille	bacille	NC	NC	n=s|g=m	7	mod	7	mod
+10	Moraxella	_	NPP	NPP		9	mod	9	mod
+11	lacunata	_	NPP	NPP		9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	à	à	P	P		5	mod	5	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	origine	origine	NC	NC	n=s|g=f	13	prep	13	prep
+16	de	de	P	P		5	mod	5	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	conjonctivite	conjonctivite	NC	NC	n=s|g=f	16	prep	16	prep
+19	chronique	chronique	ADJ	ADJ	n=s	18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	maladie	maladie	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	appelée	appeler	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	tantôt	tantôt	ADV	ADV		4	mod	4	mod
+6	"	"	PONCT	PONCT		5	ponct	5	ponct
+7	maladie	maladie	NC	NC	n=s|g=f	4	mod	4	mod
+8	de	de	P	P		7	dep	7	dep
+9	Morax	_	NPP	NPP		8	prep	8	prep
+10	"	"	PONCT	PONCT		9	ponct	9	ponct
+11	tantôt	tantôt	ADV	ADV		4	mod	4	mod
+12	"	"	PONCT	PONCT		11	ponct	11	ponct
+13	conjonctivite	conjonctivite	NC	NC	n=s|g=f	4	mod	4	mod
+14	d'	de	P	P		13	dep	13	dep
+15	Axenfeld	_	NPP	NPP		14	prep	14	prep
+16	"	"	PONCT	PONCT		15	ponct	15	ponct
+17	,	,	PONCT	PONCT		15	ponct	15	ponct
+18	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+19	nom	nom	NC	NC	n=s|g=m	18	prep	18	prep
+20	de	de	P	P		4	mod	4	mod
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	ophtalmologiste	ophtalmologiste	NC	NC	n=s	20	prep	20	prep
+23	allemand	allemand	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+24	Theodor	Theodor	NPP	NPP	n=s|g=m	22	mod	22	mod
+25	Axenfeld	_	NPP	NPP		22	mod	22	mod
+26	(	(	PONCT	PONCT		25	ponct	25	ponct
+27	1867-1930	1867-1930	NC	NC		22	mod	22	mod
+28	)	)	PONCT	PONCT		27	ponct	27	ponct
+29	,	,	PONCT	PONCT		27	ponct	27	ponct
+30	qui	qui	PROREL	PROREL	n=s	32	suj	32	suj
+31	a	avoir	V	V	n=s|t=P|p=3	32	aux_tps	32	aux_tps
+32	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	22	mod_rel	22	mod_rel
+33	le	le	DET	DET	n=s|g=m	34	det	34	det
+34	bacille	bacille	NC	NC	n=s|g=m	32	obj	32	obj
+35	au	à	P+D	P+D	n=s|g=m	32	mod	32	mod
+36	cours	cour	NC	NC	n=p|g=f	35	prep	35	prep
+37	de	de	P	P		32	mod	32	mod
+38	la	la	DET	DET	n=s|g=f	40	det	40	det
+39	même	même	ADJ	ADJ	n=s	40	mod	40	mod
+40	période	période	NC	NC	n=s	37	prep	37	prep
+41	que	que	CS	CS		32	mod	32	mod
+42	Morax	_	NPP	NPP		0	_	0	_
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	mène	mener	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	encore	encore	ADV	ADV		2	mod	2	mod
+4	de	de	DET	DET	n=p	6	det	6	det
+5	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+6	recherches	recherche	NC	NC	n=p|g=f	2	obj	2	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Dès	dès	P	P		9	mod	9	mod
+2	1896	1896	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	Institut	institut	NC	NC	n=s|g=m	9	suj	9	suj
+6	Pasteur	_	NPP	NPP		5	mod	5	mod
+7	de	de	P	P		5	dep	5	dep
+8	Paris	Paris	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	compte	compter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	Victor	Victor	NPP	NPP	n=s|g=m	9	obj	9	obj
+11	Morax	_	NPP	NPP		10	mod	10	mod
+12	dans	dans	P	P		9	mod	9	mod
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	14	det	14	det
+14	personnel	personnel	NC	NC	n=s|g=m	12	prep	12	prep
+15	enseignant	enseignant	NC	NC	n=s|g=m	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	S'	se	CLR	CLR	n=p,s|p=3	2	aff	2	aff
+2	étant	être	VPR	VPR	t=G	4	aux_tps	4	aux_tps
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	spécialisé	spécialiser	VPP	VPP	n=s|g=m|t=K	10	mod	10	mod
+5	en	en	P	P		4	mod	4	mod
+6	ophtalmologie	ophtalmologie	NC	NC	n=s|g=f	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+9	est	être	V	V	n=s|t=P|p=3	10	aux_pass	10	aux_pass
+10	nommé	nommer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	en	en	P	P		10	mod	10	mod
+12	1900	1900	NC	NC		11	prep	11	prep
+13	ophtalmologiste	ophtalmologiste	NC	NC	n=s	12	mod	12	mod
+14	des	de	P+D	P+D	n=p	10	mod	10	mod
+15	hôpitaux	hôpital	NC	NC	n=p|g=m	14	prep	14	prep
+16	;	;	PONCT	PONCT		15	ponct	15	ponct
+17	on	on	CLS	CLS	n=s|p=3	19	suj	19	suj
+18	lui	lui	CLO	CLO	n=s|p=3	19	obj	19	obj
+19	confie	confier	V	V	n=s|t=P,S|p=1,3	10	mod	10	mod
+20	en	en	P	P		19	mod	19	mod
+21	1903	1903	NC	NC		20	prep	20	prep
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	direction	direction	NC	NC	n=s|g=f	19	obj	19	obj
+24	du	de	P+D	P+D	n=s|g=m	23	dep	23	dep
+25	service	service	NC	NC	n=s|g=m	24	prep	24	prep
+26	ophtalmologique	ophtalmologique	ADJ	ADJ	n=s	25	mod	25	mod
+27	de	de	P	P		23	dep	23	dep
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	Hôpital	hôpital	NC	NC	n=s|g=m	27	prep	27	prep
+30	Lariboisière	_	NPP	NPP		29	mod	29	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	à	à	P	P		19	mod	19	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	tête	tête	NC	NC	n=s|g=f	32	prep	32	prep
+35	duquel	duquel	P+PRO	P+PRO	n=s|g=m	37	mod	37	mod
+36	il	il	CLS	CLS	n=s|g=m|p=3	37	suj	37	suj
+37	reste	rester	V	V	n=s|t=P,S|p=1,3	34	mod_rel	34	mod_rel
+38	jusqu'	jusque	P	P		37	mod	37	mod
+39	en	en	P	P		38	dep	38	dep
+40	1929	1929	NC	NC		39	prep	39	prep
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	1930	1930	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Victor	Victor	NPP	NPP	n=s|g=m	7	suj	7	suj
+5	Morax	_	NPP	NPP		4	mod	4	mod
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	élu	élire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	membre	membre	NC	NC	n=s|g=m	7	obj	7	obj
+9	de	de	P	P		7	mod	7	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	Académie	académie	NC	NC	n=s|g=f	9	prep	9	prep
+12	de	de	P	P		7	mod	7	mod
+13	Médecine	_	NPP	NPP		12	prep	12	prep
+14	de	de	P	P		7	mod	7	mod
+15	Paris	Paris	NPP	NPP	n=s|g=m	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	En	en	P	P		12	mod	12	mod
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	d'	de	DET	DET	n=p	7	det	7	det
+4	importantes	important	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+5	et	et	CC	CC		4	coord	4	coord
+6	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	5	dep_coord	5	dep_coord
+7	publications	publication	NC	NC	n=p|g=f	1	prep	1	prep
+8	scientifiques	scientifique	ADJ	ADJ	n=p	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	Victor	Victor	NPP	NPP	n=s|g=m	12	suj	12	suj
+11	Morax	_	NPP	NPP		10	mod	10	mod
+12	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+13	paraître	paraître	VINF	VINF	t=W	12	obj	12	obj
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	traité	traité	NC	NC	n=s|g=m	13	obj	13	obj
+16	d'	de	P	P		15	dep	15	dep
+17	ophtalmologie	ophtalmologie	NC	NC	n=s|g=f	16	prep	16	prep
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	rencontre	rencontrer	V	V	n=s|t=P,S|p=1,3	15	mod_rel	15	mod_rel
+20	un	un	DET	DET	n=s|g=m	22	det	22	det
+21	grand	grand	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+22	succès	succès	NC	NC	g=m	19	obj	19	obj
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	1923	1923	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	devient	devenir	V	V	n=s|t=P|p=3	0	root	0	root
+6	vice	vice	NC	NC	n=s|g=m	5	ats	5	ats
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	président	président	NC	NC	n=s|g=m	6	mod	6	mod
+9	de	de	P	P		5	mod	5	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	Ligue	ligue	NC	NC	n=s|g=f	9	prep	9	prep
+12	internationale	international	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	contre	contre	P	P		5	mod	5	mod
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	trachome	trachome	NC	NC	n=s|g=m	13	prep	13	prep
+16	dont	dont	PROREL	PROREL		24	mod	24	mod
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	bactériologiste	bactériologiste	NC	NC	n=s	24	suj	24	suj
+19	Charles	Charles	NPP	NPP	n=s|g=m	18	mod	18	mod
+20	Nicolle	_	NPP	NPP		18	mod	18	mod
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	1866-1936	1866-1936	NPP	NPP		18	mod	18	mod
+23	)	)	PONCT	PONCT		22	ponct	22	ponct
+24	était	être	V	V	n=s|t=I|p=3	5	mod	5	mod
+25	président	président	NC	NC	n=s|g=m	24	suj	24	suj
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	1929	1929	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	publie	publier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	8	det	8	det
+7	important	important	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	traité	traité	NC	NC	n=s|g=m	5	obj	5	obj
+9	sur	sur	P	P		5	mod	5	mod
+10	cette	cette	DET	DET	n=s|g=f	11	det	11	det
+11	maladie	maladie	NC	NC	n=s|g=f	9	prep	9	prep
+12	intitulé	intituler	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+13	Le	_	NPP	NPP		12	suj	12	suj
+14	Trachome	_	NPP	NPP		13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	À	à	P	P		6	mod	6	mod
+2	partir	partir	VINF	VINF	t=W	1	prep	1	prep
+3	de	de	P	P		2	mod	2	mod
+4	1892	1892	NC	NC		3	prep	3	prep
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	rédacteur	rédacteur	NC	NC	n=s|g=m	6	obj	6	obj
+9	en	en	P	P		6	mod	6	mod
+10	chef	chef	NC	NC	n=s	9	prep	9	prep
+11	de	de	P	P		6	mod	6	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	revue	revue	NC	NC	n=s|g=f	11	prep	11	prep
+14	Annales	_	NPP	NPP		13	mod	13	mod
+15	d'	de	P	P		6	mod	6	mod
+16	oculistique	_	NPP	NPP		15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Emmanuel	Emmanuel	NPP	NPP	n=s|g=m	7	suj	7	suj
+2	Jean	Jean	NPP	NPP	n=s	1	mod	1	mod
+3	-	-	PONCT	PONCT		2	ponct	2	ponct
+4	Michel	Michel	NPP	NPP	n=s|g=m	1	mod	1	mod
+5	Frédéric	Frédéric	NPP	NPP	n=s|g=m	1	mod	1	mod
+6	Macron	_	NPP	NPP		1	mod	1	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	fils	fils	NC	NC	g=m	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	Jean	Jean	NPP	NPP	n=s	10	prep	10	prep
+12	-	-	PONCT	PONCT		11	ponct	11	ponct
+13	Michel	Michel	NPP	NPP	n=s|g=m	11	mod	11	mod
+14	Macron	_	NPP	NPP		11	mod	11	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	né	naître	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+17	en	en	P	P		16	mod	16	mod
+18	1950	1950	NC	NC		17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	médecin	médecin	NC	NC	n=s|g=m	16	mod	16	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	professeur	professeur	NC	NC	n=s|g=m	16	mod	16	mod
+23	de	de	P	P		22	dep	22	dep
+24	neurologie	neurologie	NC	NC	n=s|g=f	23	prep	23	prep
+25	au	à	P+D	P+D	n=s|g=m	16	mod	16	mod
+26	CHU	_	NC	NC		25	prep	25	prep
+27	d'	de	P	P		16	mod	16	mod
+28	Amiens4	_	NPP	NPP		27	prep	27	prep
+29	et	et	CC	CC		7	coord	7	coord
+30	responsable	responsable	ADJ	ADJ	n=s	29	dep_coord	29	dep_coord
+31	d'	de	P	P		7	mod	7	mod
+32	enseignement	enseignement	NC	NC	n=s|g=m	31	prep	31	prep
+33	à	à	P	P		7	mod	7	mod
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	faculté	faculté	NC	NC	n=s|g=f	33	prep	33	prep
+36	de	de	P	P		7	mod	7	mod
+37	médecine	médecine	NC	NC	n=s|g=f	36	prep	36	prep
+38	de	de	P	P		7	mod	7	mod
+39	cette	cette	DET	DET	n=s|g=f	41	det	41	det
+40	même	même	ADJ	ADJ	n=s	41	mod	41	mod
+41	ville5	_	NC	NC		38	prep	38	prep
+42	,	,	PONCT	PONCT		41	ponct	41	ponct
+43	et	et	CC	CC		7	coord	7	coord
+44	de	de	P	P		43	dep_coord	43	dep_coord
+45	Françoise	Françoise	NPP	NPP	n=s|g=f	44	prep	44	prep
+46	Noguès	_	NPP	NPP		45	mod	45	mod
+47	,	,	PONCT	PONCT		46	ponct	46	ponct
+48	médecin	médecin	NC	NC	n=s|g=m	45	mod	45	mod
+49	conseil	conseil	NC	NC	n=s|g=m	48	mod	48	mod
+50	à	à	P	P		48	dep	48	dep
+51	la	la	DET	DET	n=s|g=f	52	det	52	det
+52	Sécurité	sécurité	NC	NC	n=s|g=f	50	prep	50	prep
+53	sociale6	_	ADJ	ADJ		52	mod	52	mod
+54	.	.	PONCT	PONCT		53	ponct	53	ponct
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	enfant	enfant	NC	NC	n=s	5	suj	5	suj
+4	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	mort	mourir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	-	-	PONCT	PONCT		5	ponct	5	ponct
+7	né	naître	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+8	[	[	PONCT	PONCT		7	ponct	7	ponct
+9	réf	_	NC	NC		7	mod	7	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	nécessaire	nécessaire	ADJ	ADJ	n=s	0	_	0	_
+2	]	]	PONCT	PONCT		1	ponct	1	ponct
+3	.	.	PONCT	PONCT		1	ponct	1	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	4	suj	4	suj
+2	ont	avoir	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+3	ensuite	ensuite	ADV	ADV		4	mod	4	mod
+4	eu	avoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	trois	trois	DET	DET	s=card|n=p	6	det	6	det
+6	enfants	enfant	NC	NC	n=p	4	obj	4	obj
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	Emmanuel	Emmanuel	NPP	NPP	n=s|g=m	6	mod	6	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	Laurent	Laurent	NPP	NPP	n=s|g=m	6	mod	6	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	né	naître	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+13	en	en	P	P		12	mod	12	mod
+14	1979	1979	NC	NC		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	radiologue	radiologue	NC	NC	n=s	14	mod	14	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	marié	marier	VPP	VPP	n=s|g=m|t=K	16	mod	16	mod
+19	à	à	P	P		18	mod	18	mod
+20	Sabine	Sabine	NPP	NPP	n=s|g=f	19	prep	19	prep
+21	Aimot	_	NPP	NPP		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	gynécologue	gynécologue	NC	NC	n=s	20	mod	20	mod
+24	-	-	PONCT	PONCT		23	ponct	23	ponct
+25	obstétricienne	obstétricien	NC	NC	n=s|g=f	20	mod	20	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	née	naître	VPP	VPP	n=s|g=f|t=K	20	mod	20	mod
+28	en	en	P	P		27	mod	27	mod
+29	1980	1980	NC	NC		28	prep	28	prep
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	et	et	CC	CC		20	coord	20	coord
+32	Estelle	Estelle	NPP	NPP	n=s|g=f	31	dep_coord	31	dep_coord
+33	(	(	PONCT	PONCT		32	ponct	32	ponct
+34	née	naître	VPP	VPP	n=s|g=f|t=K	20	mod	20	mod
+35	en	en	P	P		34	mod	34	mod
+36	1982	1982	NC	NC		35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	néphrologue	néphrologue	NC	NC	n=s	36	mod	36	mod
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	mariée	marier	VPP	VPP	n=s|g=f|t=K	20	mod	20	mod
+41	à	à	P	P		40	mod	40	mod
+42	Carl	Carl	NPP	NPP	n=s|g=m	41	prep	41	prep
+43	Franjou	_	NPP	NPP		42	mod	42	mod
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	ingénieur	ingénieur	NC	NC	n=s|g=m	42	mod	42	mod
+46	)	)	PONCT	PONCT		45	ponct	45	ponct
+47	7	7	NC	NC		42	mod	42	mod
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	Après	après	P	P		11	mod	11	mod
+2	leur	leur	DET	DET	n=s|p=3|poss=p	3	det	3	det
+3	divorce	divorce	NC	NC	n=s|g=m	1	prep	1	prep
+4	en	en	P	P		3	dep	3	dep
+5	2010	2010	NC	NC		4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Jean	Jean	NPP	NPP	n=s	11	suj	11	suj
+8	-	-	PONCT	PONCT		7	ponct	7	ponct
+9	Michel	Michel	NPP	NPP	n=s|g=m	7	mod	7	mod
+10	Macron	_	NPP	NPP		7	mod	7	mod
+11	épouse	épouser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	Hélène	Hélène	NPP	NPP	n=s|g=f	11	obj	11	obj
+13	Joly	_	NPP	NPP		12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	psychiatre	psychiatre	NC	NC	n=s	12	mod	12	mod
+16	au	à	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	CHS	_	NPP	NPP		16	prep	16	prep
+18	-	-	PONCT	PONCT		17	ponct	17	ponct
+19	Pinel	_	NPP	NPP		12	coord	12	coord
+20	Dury	Dury	NPP	NPP	n=s|g=m	19	mod	19	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	famille	famille	NC	NC	n=s|g=f	4	suj	4	suj
+3	Macron	_	NPP	NPP		2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	originaire	originaire	ADJ	ADJ	n=s	4	ats	4	ats
+6	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+7	village	village	NC	NC	n=s|g=m	6	prep	6	prep
+8	d'	de	P	P		4	mod	4	mod
+9	Authie	Authie	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	dans	dans	P	P		4	mod	4	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Somme	Somme	NPP	NPP	n=s|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	arrière	arrière	NC	NC	n=s	14	suj	14	suj
+3	-	-	PONCT	PONCT		2	ponct	2	ponct
+4	grand	grand	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+5	-	-	PONCT	PONCT		4	ponct	4	ponct
+6	père	père	NC	NC	n=s|g=m	2	mod	2	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Henri	Henri	NPP	NPP	n=s|g=m	6	mod	6	mod
+9	Macron	_	NPP	NPP		6	mod	6	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	ingénieur	ingénieur	NC	NC	n=s|g=m	2	mod	2	mod
+12	voyer	_	NC	NC		11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+15	maire	maire	NC	NC	n=s|g=m	14	ats	14	ats
+16	de	de	P	P		14	mod	14	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	commune	commune	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		14	mod	14	mod
+20	1953	1953	NC	NC		19	prep	19	prep
+21	à	à	P	P		14	mod	14	mod
+22	19648	19648	NC	NC		21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	4	det	4	det
+2	grands	grand	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+3	-	-	PONCT	PONCT		2	ponct	2	ponct
+4	parents	parent	NC	NC	n=p|g=m	6	suj	6	suj
+5	paternels	paternel	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	André	André	NPP	NPP	n=s|g=m	6	obj	6	obj
+8	Macron	_	NPP	NPP		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	était	être	V	V	n=s|t=I|p=3	7	mod_rel	7	mod_rel
+12	cadre	cadre	NC	NC	n=s|g=m	11	obj	11	obj
+13	à	à	P	P		11	mod	11	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	SNCF9	_	NC	NC		13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		7	coord	7	coord
+18	Jacqueline	Jacqueline	NPP	NPP	n=s|g=f	17	dep_coord	17	dep_coord
+19	Macron	_	NPP	NPP		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	fille	fille	NC	NC	n=s|g=f	18	mod	18	mod
+22	de	de	P	P		21	dep	21	dep
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	Amiénoise	_	NPP	NPP		22	prep	22	prep
+25	Suzanne	Suzanne	NPP	NPP	n=s|g=f,m	24	mod	24	mod
+26	Leblond	_	NPP	NPP		24	mod	24	mod
+27	et	et	CC	CC		18	coord	18	coord
+28	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+29	Britannique	britannique	NC	NC	n=s	28	prep	28	prep
+30	George	George	NPP	NPP	n=s|g=m	29	mod	29	mod
+31	Robertson	_	NPP	NPP		29	mod	29	mod
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	venu	venir	VPP	VPP	n=s|g=m|t=K	29	mod	29	mod
+34	de	de	P	P		33	mod	33	mod
+35	Bristol	Bristol	NPP	NPP	n=s|g=m	34	prep	34	prep
+36	pour	pour	P	P		33	mod	33	mod
+37	combattre	combattre	VINF	VINF	t=W	36	prep	36	prep
+38	durant	durant	P	P		37	mod	37	mod
+39	la	la	DET	DET	n=s|g=f	40	det	40	det
+40	Première	_	NPP	NPP		38	prep	38	prep
+41	Guerre	_	NPP	NPP		29	mod	29	mod
+42	mondiale	mondial	ADJ	ADJ	n=s|g=f	41	mod	41	mod
+43	et	et	CC	CC		6	coord	6	coord
+44	qui	qui	PROREL	PROREL	n=s	45	suj	45	suj
+45	quitte	quitter	V	V	n=s|t=P,S|p=1,3	43	dep_coord	43	dep_coord
+46	son	son	DET	DET	n=s|g=m|p=3|poss=s	47	det	47	det
+47	épouse	épouse	NC	NC	n=s|g=f	45	obj	45	obj
+48	Suzanne	Suzanne	NPP	NPP	n=s|g=f,m	47	mod	47	mod
+49	en	en	P	P		45	mod	45	mod
+50	192810	192810	NC	NC		49	prep	49	prep
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	4	det	4	det
+2	grands	grand	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+3	-	-	PONCT	PONCT		2	ponct	2	ponct
+4	parents	parent	NC	NC	n=p|g=m	16	suj	16	suj
+5	maternels	maternel	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Jean	Jean	NPP	NPP	n=s	4	mod	4	mod
+8	et	et	CC	CC		4	coord	4	coord
+9	Germaine	Germaine	NPP	NPP	n=s|g=f,m	8	dep_coord	8	dep_coord
+10	Noguès	_	NPP	NPP		9	mod	9	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	née	naître	VPP	VPP	n=s|g=f|t=K	9	mod	9	mod
+13	Arribet	_	NPP	NPP		12	mod	12	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	,	,	PONCT	PONCT		13	ponct	13	ponct
+16	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+17	originaires	originaire	ADJ	ADJ	n=p	16	ats	16	ats
+18	de	de	P	P		16	mod	16	mod
+19	Bagnères	_	NPP	NPP		18	prep	18	prep
+20	-	-	PONCT	PONCT		19	ponct	19	ponct
+21	de	de	P	P		16	mod	16	mod
+22	-	-	PONCT	PONCT		21	ponct	21	ponct
+23	Bigorre	_	NPP	NPP		21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	dans	dans	P	P		16	mod	16	mod
+26	les	les	DET	DET	n=p	27	det	27	det
+27	Pyrénées11	_	NPP	NPP		25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	12,13	12,13	NC	NC		27	mod	27	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	affirme	affirmer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	être	être	VINF	VINF	t=W	4	aux_pass	4	aux_pass
+4	passionné	passionner	VPP	VPP	n=s|g=m|t=K	2	obj	2	obj
+5	par	par	P	P		4	mod	4	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	lettres	lettre	NC	NC	n=p|g=f	5	prep	5	prep
+8	et	et	CC	CC		2	coord	2	coord
+9	s'	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+10	être	être	VINF	VINF	t=W	11	aux_tps	11	aux_tps
+11	engagé	engager	VPP	VPP	n=s|g=m|t=K	8	dep_coord	8	dep_coord
+12	à	à	P	P		11	mod	11	mod
+13	gauche	gauche	NC	NC	n=s	12	prep	12	prep
+14	en	en	P	P		11	mod	11	mod
+15	raison	raison	NC	NC	n=s|g=f	14	prep	14	prep
+16	de	de	P	P		11	mod	11	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	influence	influence	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		11	mod	11	mod
+20	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	23	det	23	det
+21	grand	grand	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+22	-	-	PONCT	PONCT		21	ponct	21	ponct
+23	mère	mère	NC	NC	n=s|g=f	19	prep	19	prep
+24	Germaine	Germaine	NPP	NPP	n=s|g=f,m	23	mod	23	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	enseignante	enseignant	NC	NC	n=s|g=f	23	mod	23	mod
+27	puis	puis	CC	CC		23	coord	23	coord
+28	principale	principal	ADJ	ADJ	n=s|g=f	27	dep_coord	27	dep_coord
+29	de	de	P	P		11	mod	11	mod
+30	collège	collège	NC	NC	n=s|g=m	29	prep	29	prep
+
